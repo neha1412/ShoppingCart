@@ -8,4 +8,4 @@ Requirements :
 3) Customer has e-wallet
 4) Customer purchases items and pays by e-wallet
 5) Wallet Provider is offering a discount of 5% if cost of cost is >= 100
-6) The shop is running with offer buy 2 liters of milk and get 1 free.
+
